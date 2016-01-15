@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "DCA93DDB1C4905FF0030930D"
-               BuildableName = "XLYKeyValueStore iOS.framework"
+               BuildableName = "XLYKeyValueStore.framework"
                BlueprintName = "XLYKeyValueStore iOS"
                ReferencedContainer = "container:XLYKeyValueStore.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DCA93DDB1C4905FF0030930D"
-            BuildableName = "XLYKeyValueStore iOS.framework"
+            BuildableName = "XLYKeyValueStore.framework"
             BlueprintName = "XLYKeyValueStore iOS"
             ReferencedContainer = "container:XLYKeyValueStore.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "DCA93DDB1C4905FF0030930D"
-            BuildableName = "XLYKeyValueStore iOS.framework"
+            BuildableName = "XLYKeyValueStore.framework"
             BlueprintName = "XLYKeyValueStore iOS"
             ReferencedContainer = "container:XLYKeyValueStore.xcodeproj">
          </BuildableReference>
