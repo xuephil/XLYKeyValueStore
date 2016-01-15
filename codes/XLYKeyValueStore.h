@@ -8,6 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
+//! Project version number for XLYKeyValueStore.
+FOUNDATION_EXPORT double XLYKeyValueStoreVersionNumber;
+
+//! Project version string for XLYKeyValueStore.
+FOUNDATION_EXPORT const unsigned char XLYKeyValueStoreVersionString[];
+
 ///this class is used to record the stored info. attributes of 'table', 'key', 'object' and 'modifyDate' are included.
 @interface XLYKeyValueStoreItem : NSObject
 
